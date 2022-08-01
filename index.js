@@ -14,11 +14,8 @@ soemsbbsb
 gdgdgvdgvdgv
 <p>This is a paragraph.</p>
 <p>Successfully added a feature from a branch to the master branch</p>
-<<<<<<< HEAD
-fffdgfdfgd
-=======
-hfhfhfhfhfh
->>>>>>> 3631eb3 (added a success line)
-ffffff
+        fffdgfdfgd
+        hfhfhfhfhfh
+        ffffff
 </body>
 </html>
